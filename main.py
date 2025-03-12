@@ -5,4 +5,4 @@ int_userSpeed = 0
 INT_MONEYOWED = 500
 STR_SAFE = "Okay, sorry for the confusion."
 STR_GIMME_MONEY = "You give me ${} for speeding. Not good. Bad.".format(INT_MONEYOWED)
-
+STR_UNSAFE = "You could've died, slow down!"
